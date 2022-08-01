@@ -1,3 +1,5 @@
+## This is purely for testing purposes ( Not actually anything developed here) 
+
 AWS CodeStar Sample ASP.NET Core Web Service
 ==================================================
 
